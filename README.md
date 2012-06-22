@@ -11,8 +11,8 @@ Download
 --------
 
 - Version 1.0
-  - [English](https://github.com/alfonsocora/bichohunting/raw/master/BichoHunting.english.exe)
-  - [Spanish](https://github.com/alfonsocora/bichohunting/raw/master/BichoHunting.spanish.exe)
+  - [English (1.1 MB)](https://github.com/alfonsocora/bichohunting/raw/master/BichoHunting.english.exe)
+  - [Spanish (1.1 MB)](https://github.com/alfonsocora/bichohunting/raw/master/BichoHunting.spanish.exe)
 
 OS Requirements
 ---------------
