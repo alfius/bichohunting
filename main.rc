@@ -1,0 +1,70 @@
+#include "Ids.h"
+#include <windows.h>
+
+ID_ICON ICON "bicho_hunting.ico"
+ID_SOUNDLASER WAVE "laser.wav"
+ID_SOUNDBOING WAVE "boing.wav"
+ID_SOUNDLAUGH WAVE "laugh.wav"
+ID_SOUNDERROR WAVE "error.wav"
+ID_SPLASH_ENGLISH BITMAP "splash.english.bmp"
+ID_SPLASH_SPANISH BITMAP "splash.spanish.bmp"
+ID_BALLGREENR BITMAP "ball_green.bmp"
+ID_BALLGREENL BITMAP "ball_green_b.bmp"
+ID_BALLBLUER BITMAP "ball_blue.bmp"
+ID_BALLBLUEL BITMAP "ball_blue_b.bmp"
+ID_BALLREDR BITMAP "ball_red.bmp"
+ID_BALLREDL BITMAP "ball_red_b.bmp"
+ID_BALLYELLOWR BITMAP "ball_yellow.bmp"
+ID_BALLYELLOWL BITMAP "ball_yellow_b.bmp"
+ID_BALLORANGE1 BITMAP "ball_orange_1.bmp"
+ID_BALLORANGE2 BITMAP "ball_orange_2.bmp"
+ID_BALLORANGE3 BITMAP "ball_orange_3.bmp"
+ID_BALLEXPLOTED BITMAP "ball_exploted.bmp"
+ID_BALLSMALLEXPLOTED BITMAP "ball_orange_exploted.bmp"
+ID_BALLSKULL BITMAP "ball_skull.bmp"
+ID_STATUSSCORE BITMAP "status_score.bmp"
+ID_STATUSLIVES BITMAP "status_lives.bmp"
+
+ID_HIGHSCOREDIALOG DIALOGEX 0, 0, 294, 28
+STYLE DS_SETFONT|DS_MODALFRAME|DS_FIXEDSYS|WS_POPUP|WS_CAPTION|WS_SYSMENU|DS_CENTER
+#ifdef LANGUAGE_SPANISH
+CAPTION "Escribe tu nombre:"
+#else
+CAPTION "Write your name:"
+#endif
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,237,7,50,14
+    EDITTEXT        ID_HIGHSCOREDIALOGEDIT,7,7,226,14,ES_AUTOHSCROLL
+END
+
+1 RT_MANIFEST "rt_manif.bin"
+
+ID_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x17L
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "0c0a04b0"
+        BEGIN
+            VALUE "CompanyName", "Alfonso Software"
+            VALUE "FileDescription", "Bicho Hunting"
+            VALUE "FileVersion", "1, 0, 0, 2"
+            VALUE "InternalName", "BichoHunting"
+            VALUE "LegalCopyright", "Copyright (C) 2008"
+            VALUE "LegalTrademarks", "Alfonso Software"
+            VALUE "OriginalFilename", "BichoHunting.exe"
+            VALUE "ProductName", "Bicho Hunting"
+            VALUE "ProductVersion", "1, 0, 0, 2"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0xc0a, 1200
+    END
+END

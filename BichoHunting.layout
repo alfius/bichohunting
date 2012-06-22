@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Ball.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="455" topLine="0" />
+	</File>
+	<File name="Ball.h" open="0" top="0" tabpos="3">
+		<Cursor position="455" topLine="0" />
+	</File>
+	<File name="Controller.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="4869" topLine="196" />
+	</File>
+	<File name="Controller.h" open="0" top="0" tabpos="2">
+		<Cursor position="455" topLine="0" />
+	</File>
+	<File name="ControllerFactory.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="455" topLine="0" />
+	</File>
+	<File name="ControllerFactory.h" open="0" top="0" tabpos="6">
+		<Cursor position="455" topLine="0" />
+	</File>
+	<File name="HighScore.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="HighScore.h" open="0" top="0" tabpos="8">
+		<Cursor position="209" topLine="0" />
+	</File>
+	<File name="HighScores.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="707" topLine="33" />
+	</File>
+	<File name="HighScores.h" open="0" top="0" tabpos="6">
+		<Cursor position="455" topLine="0" />
+	</File>
+	<File name="Ids.h" open="1" top="1" tabpos="2">
+		<Cursor position="31" topLine="0" />
+	</File>
+	<File name="RegistryKey.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="455" topLine="0" />
+	</File>
+	<File name="RegistryKey.h" open="0" top="0" tabpos="0">
+		<Cursor position="457" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="6655" topLine="126" />
+	</File>
+	<File name="main.rc" open="1" top="0" tabpos="1">
+		<Cursor position="291" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

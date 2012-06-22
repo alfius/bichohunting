@@ -1,0 +1,185 @@
+# depslib dependency file v1.0
+1217787448 source:c:\documents and settings\alfonso\escritorio\again\again\main.rc
+	"Ids.h"
+
+1217805889 source:c:\documents and settings\alfonso\escritorio\again\again\main.cpp
+	<windows.h>
+	"ControllerFactory.h"
+	"Ids.h"
+
+1217787251 c:\documents and settings\alfonso\escritorio\again\again\ids.h
+
+1217805069 source:c:\documents and settings\alfonso\escritorio\again\again\controller.cpp
+	"Controller.h"
+
+1217805069 c:\documents and settings\alfonso\escritorio\again\again\controller.h
+	"Ball.h"
+	<windows.h>
+	<list>
+
+1217805889 c:\documents and settings\alfonso\escritorio\again\again\ball.h
+
+1217791855 source:c:\documents and settings\alfonso\escritorio\again\again\controllerfactory.cpp
+	"ControllerFactory.h"
+
+1217793143 c:\documents and settings\alfonso\escritorio\again\again\controllerfactory.h
+	"Controller.h"
+
+1217806312 source:c:\documents and settings\alfonso\escritorio\again\again\ball.cpp
+	"Ball.h"
+
+1218068898 source:d:\prog\again\controller.cpp
+	"Controller.h"
+
+1218068898 d:\prog\again\controller.h
+	<windows.h>
+	"HighScores.h"
+	"Ball.h"
+
+1218046288 d:\prog\again\ball.h
+
+1217791855 source:d:\prog\again\controllerfactory.cpp
+	"ControllerFactory.h"
+
+1217793143 d:\prog\again\controllerfactory.h
+	"Controller.h"
+
+1218072275 source:d:\prog\again\main.rc
+	"Ids.h"
+	<windows.h>
+
+1218063225 d:\prog\again\ids.h
+
+1218054487 source:d:\prog\again\ball.cpp
+	"Ball.h"
+	<cstdlib>
+
+1218070747 source:d:\prog\again\main.cpp
+	<windows.h>
+	"ControllerFactory.h"
+	"Ids.h"
+
+1218064123 d:\prog\again\highscores.h
+	"HighScore.h"
+	<list>
+
+1218070672 d:\prog\again\highscore.h
+
+1218061662 source:d:\prog\again\highscore.cpp
+	"HighScore.h"
+	<string>
+
+1218071704 source:d:\prog\again\registrykey.cpp
+	"RegistryKey.h"
+
+1218071866 d:\prog\again\registrykey.h
+	<windows.h>
+
+1218071866 source:d:\prog\again\highscores.cpp
+	"HighScores.h"
+	"RegistryKey.h"
+
+1218318286 source:d:\prog\bichohunting\controller.cpp
+	"Controller.h"
+
+1218318284 d:\prog\bichohunting\controller.h
+	<windows.h>
+	"HighScores.h"
+	"Ball.h"
+
+1218318282 d:\prog\bichohunting\highscores.h
+	"HighScore.h"
+	<list>
+
+1218318283 d:\prog\bichohunting\highscore.h
+
+1218318284 d:\prog\bichohunting\ball.h
+
+1218318285 source:d:\prog\bichohunting\controllerfactory.cpp
+	"ControllerFactory.h"
+
+1218318283 d:\prog\bichohunting\controllerfactory.h
+	"Controller.h"
+
+1218318285 source:d:\prog\bichohunting\highscore.cpp
+	"HighScore.h"
+	<string>
+
+1218318285 source:d:\prog\bichohunting\highscores.cpp
+	"HighScores.h"
+	"RegistryKey.h"
+
+1218318282 d:\prog\bichohunting\registrykey.h
+	<windows.h>
+
+1218318284 source:d:\prog\bichohunting\registrykey.cpp
+	"RegistryKey.h"
+
+1218319796 source:d:\prog\bichohunting\main.cpp
+	<windows.h>
+	<commctrl.h>
+	"ControllerFactory.h"
+	"Ids.h"
+
+1218319053 d:\prog\bichohunting\ids.h
+
+1218318281 source:d:\prog\bichohunting\main.rc
+	"Ids.h"
+	<windows.h>
+
+1218318286 source:d:\prog\bichohunting\ball.cpp
+	"Ball.h"
+	<cstdlib>
+
+1328722585 source:c:\users\alfonso\desktop\bichohunting\v1.0\controller.cpp
+	"Controller.h"
+
+1328722591 c:\users\alfonso\desktop\bichohunting\v1.0\controller.h
+	<windows.h>
+	"HighScores.h"
+	"Ball.h"
+
+1328722636 c:\users\alfonso\desktop\bichohunting\v1.0\highscores.h
+	"HighScore.h"
+	<list>
+
+1328722621 c:\users\alfonso\desktop\bichohunting\v1.0\highscore.h
+
+1328722575 c:\users\alfonso\desktop\bichohunting\v1.0\ball.h
+
+1328722598 source:c:\users\alfonso\desktop\bichohunting\v1.0\controllerfactory.cpp
+	"ControllerFactory.h"
+
+1328722605 c:\users\alfonso\desktop\bichohunting\v1.0\controllerfactory.h
+	"Controller.h"
+
+1328725377 source:c:\users\alfonso\desktop\bichohunting\v1.0\highscore.cpp
+	"HighScore.h"
+	<string.h>
+
+1328725230 source:c:\users\alfonso\desktop\bichohunting\v1.0\highscores.cpp
+	"HighScores.h"
+	"RegistryKey.h"
+
+1328722666 c:\users\alfonso\desktop\bichohunting\v1.0\registrykey.h
+	<windows.h>
+
+1328722659 source:c:\users\alfonso\desktop\bichohunting\v1.0\registrykey.cpp
+	"RegistryKey.h"
+
+1328725411 source:c:\users\alfonso\desktop\bichohunting\v1.0\main.cpp
+	<windows.h>
+	<commctrl.h>
+	"ControllerFactory.h"
+	"Ids.h"
+
+1328725434 c:\users\alfonso\desktop\bichohunting\v1.0\ids.h
+
+1328725313 source:c:\users\alfonso\desktop\bichohunting\v1.0\main.rc
+	"Ids.h"
+	<windows.h>
+
+1328722567 source:c:\users\alfonso\desktop\bichohunting\v1.0\ball.cpp
+	"Ball.h"
+	<cstdlib>
+
