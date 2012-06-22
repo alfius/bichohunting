@@ -7,6 +7,13 @@ Overview
 A simple game built with the Win32 API and GDI.
 This game was originally published by me on August 9, 2008. I'm making it open source now in the hope that someone wants to contribute to it by improving it in any way or creating a new game based on this one.
 
+Download
+--------
+
+- Version 1.0
+  - [English](https://github.com/alfonsocora/bichohunting/raw/master/BichoHunting.english.exe)
+  - [Spanish](https://github.com/alfonsocora/bichohunting/raw/master/BichoHunting.spanish.exe)
+
 OS Requirements
 ---------------
 
